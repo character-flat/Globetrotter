@@ -7,6 +7,6 @@ load_dotenv()
 MONGO_URI = os.getenv("MONGO_URI")
 
 client = AsyncIOMotorClient(MONGO_URI, tls=True, tlsAllowInvalidCertificates=True)
-db = client["Globetrotter"]  # Explicitly selecting the Globetrotter DB
-questions_collection = db["questions"]  # Explicitly selecting the questions collection
+db = client["Globetrotter"] 
+questions_collection = db["questions"] 
 users_collection = db["users"]

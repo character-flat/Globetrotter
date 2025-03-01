@@ -8,7 +8,6 @@ router = APIRouter()
 
 @router.get("/get-question")
 async def get_question():
-    #import pdb; pdb.set_trace()
     total_count = await questions_collection.count_documents({})
 
     if total_count == 0:
@@ -43,8 +42,6 @@ async def submit_answer(data: AnswerRequest):
     correct_answer = question["name"]
     is_correct = data.answer.lower() == correct_answer.lower()
 
-    # Fetch user profile
-    # import pdb; pdb.set_trace()
     user = await users_collection.find_one({"name": data.user_name})
     if not user:
         raise HTTPException(status_code=404, detail="User not found.")
