@@ -1,5 +1,4 @@
-const API_BASE_URL = "https://literate-robot-rvpvr95grjjc5675-8000.app.github.dev";
-
+const API_BASE_URL = "/api";
 export const fetchQuestion = async () => {
   const response = await fetch(`${API_BASE_URL}/get-question`);
   return response.json();
