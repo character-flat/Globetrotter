@@ -17,3 +17,6 @@ app.add_middleware(
 @app.get("/")
 def home():
     return {"message": "Welcome to Globetrotter!"}
+
+app.include_router(router)
+
