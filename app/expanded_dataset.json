@@ -1,0 +1,1202 @@
+[
+    {
+        "alias":"dst1",
+        "name":"Hong Kong",
+        "clues":[
+            "A popular tourist destination in Hong Kong",
+            "Known for its unique landmarks and attractions in Hong Kong"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Hong Kong",
+            "Offers a rich cultural experience in Hong Kong"
+        ]
+    },
+    {
+        "alias":"dst2",
+        "name":"Bangkok",
+        "clues":[
+            "A popular tourist destination in Bangkok",
+            "Known for its unique landmarks and attractions in Bangkok"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Bangkok",
+            "Offers a rich cultural experience in Bangkok"
+        ]
+    },
+    {
+        "alias":"dst3",
+        "name":"London",
+        "clues":[
+            "A popular tourist destination in London",
+            "Known for its unique landmarks and attractions in London"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, London",
+            "Offers a rich cultural experience in London"
+        ]
+    },
+    {
+        "alias":"dst4",
+        "name":"Macau",
+        "clues":[
+            "A popular tourist destination in Macau",
+            "Known for its unique landmarks and attractions in Macau"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Macau",
+            "Offers a rich cultural experience in Macau"
+        ]
+    },
+    {
+        "alias":"dst5",
+        "name":"Singapore",
+        "clues":[
+            "A popular tourist destination in Singapore",
+            "Known for its unique landmarks and attractions in Singapore"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Singapore",
+            "Offers a rich cultural experience in Singapore"
+        ]
+    },
+    {
+        "alias":"dst6",
+        "name":"Paris",
+        "clues":[
+            "A popular tourist destination in Paris",
+            "Known for its unique landmarks and attractions in Paris"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Paris",
+            "Offers a rich cultural experience in Paris"
+        ]
+    },
+    {
+        "alias":"dst7",
+        "name":"Dubai",
+        "clues":[
+            "A popular tourist destination in Dubai",
+            "Known for its unique landmarks and attractions in Dubai"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Dubai",
+            "Offers a rich cultural experience in Dubai"
+        ]
+    },
+    {
+        "alias":"dst8",
+        "name":"New York City",
+        "clues":[
+            "A popular tourist destination in New York City",
+            "Known for its unique landmarks and attractions in New York City"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, New York City",
+            "Offers a rich cultural experience in New York City"
+        ]
+    },
+    {
+        "alias":"dst9",
+        "name":"Kuala Lumpur",
+        "clues":[
+            "A popular tourist destination in Kuala Lumpur",
+            "Known for its unique landmarks and attractions in Kuala Lumpur"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Kuala Lumpur",
+            "Offers a rich cultural experience in Kuala Lumpur"
+        ]
+    },
+    {
+        "alias":"dst10",
+        "name":"Istanbul",
+        "clues":[
+            "A popular tourist destination in Istanbul",
+            "Known for its unique landmarks and attractions in Istanbul"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Istanbul",
+            "Offers a rich cultural experience in Istanbul"
+        ]
+    },
+    {
+        "alias":"dst11",
+        "name":"Delhi",
+        "clues":[
+            "A popular tourist destination in Delhi",
+            "Known for its unique landmarks and attractions in Delhi"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Delhi",
+            "Offers a rich cultural experience in Delhi"
+        ]
+    },
+    {
+        "alias":"dst12",
+        "name":"Antalya",
+        "clues":[
+            "A popular tourist destination in Antalya",
+            "Known for its unique landmarks and attractions in Antalya"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Antalya",
+            "Offers a rich cultural experience in Antalya"
+        ]
+    },
+    {
+        "alias":"dst13",
+        "name":"Shenzhen",
+        "clues":[
+            "A popular tourist destination in Shenzhen",
+            "Known for its unique landmarks and attractions in Shenzhen"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Shenzhen",
+            "Offers a rich cultural experience in Shenzhen"
+        ]
+    },
+    {
+        "alias":"dst14",
+        "name":"Mumbai",
+        "clues":[
+            "A popular tourist destination in Mumbai",
+            "Known for its unique landmarks and attractions in Mumbai"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Mumbai",
+            "Offers a rich cultural experience in Mumbai"
+        ]
+    },
+    {
+        "alias":"dst15",
+        "name":"Phuket",
+        "clues":[
+            "A popular tourist destination in Phuket",
+            "Known for its unique landmarks and attractions in Phuket"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Phuket",
+            "Offers a rich cultural experience in Phuket"
+        ]
+    },
+    {
+        "alias":"dst16",
+        "name":"Rome",
+        "clues":[
+            "A popular tourist destination in Rome",
+            "Known for its unique landmarks and attractions in Rome"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Rome",
+            "Offers a rich cultural experience in Rome"
+        ]
+    },
+    {
+        "alias":"dst17",
+        "name":"Tokyo",
+        "clues":[
+            "A popular tourist destination in Tokyo",
+            "Known for its unique landmarks and attractions in Tokyo"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Tokyo",
+            "Offers a rich cultural experience in Tokyo"
+        ]
+    },
+    {
+        "alias":"dst18",
+        "name":"Taipei",
+        "clues":[
+            "A popular tourist destination in Taipei",
+            "Known for its unique landmarks and attractions in Taipei"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Taipei",
+            "Offers a rich cultural experience in Taipei"
+        ]
+    },
+    {
+        "alias":"dst19",
+        "name":"Mecca",
+        "clues":[
+            "A popular tourist destination in Mecca",
+            "Known for its unique landmarks and attractions in Mecca"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Mecca",
+            "Offers a rich cultural experience in Mecca"
+        ]
+    },
+    {
+        "alias":"dst20",
+        "name":"Guangzhou",
+        "clues":[
+            "A popular tourist destination in Guangzhou",
+            "Known for its unique landmarks and attractions in Guangzhou"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Guangzhou",
+            "Offers a rich cultural experience in Guangzhou"
+        ]
+    },
+    {
+        "alias":"dst21",
+        "name":"Pattaya",
+        "clues":[
+            "A popular tourist destination in Pattaya",
+            "Known for its unique landmarks and attractions in Pattaya"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Pattaya",
+            "Offers a rich cultural experience in Pattaya"
+        ]
+    },
+    {
+        "alias":"dst22",
+        "name":"Prague",
+        "clues":[
+            "A popular tourist destination in Prague",
+            "Known for its unique landmarks and attractions in Prague"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Prague",
+            "Offers a rich cultural experience in Prague"
+        ]
+    },
+    {
+        "alias":"dst23",
+        "name":"Shanghai",
+        "clues":[
+            "A popular tourist destination in Shanghai",
+            "Known for its unique landmarks and attractions in Shanghai"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Shanghai",
+            "Offers a rich cultural experience in Shanghai"
+        ]
+    },
+    {
+        "alias":"dst24",
+        "name":"Las Vegas",
+        "clues":[
+            "A popular tourist destination in Las Vegas",
+            "Known for its unique landmarks and attractions in Las Vegas"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Las Vegas",
+            "Offers a rich cultural experience in Las Vegas"
+        ]
+    },
+    {
+        "alias":"dst25",
+        "name":"Miami",
+        "clues":[
+            "A popular tourist destination in Miami",
+            "Known for its unique landmarks and attractions in Miami"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Miami",
+            "Offers a rich cultural experience in Miami"
+        ]
+    },
+    {
+        "alias":"dst26",
+        "name":"Barcelona",
+        "clues":[
+            "A popular tourist destination in Barcelona",
+            "Known for its unique landmarks and attractions in Barcelona"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Barcelona",
+            "Offers a rich cultural experience in Barcelona"
+        ]
+    },
+    {
+        "alias":"dst27",
+        "name":"Los Angeles",
+        "clues":[
+            "A popular tourist destination in Los Angeles",
+            "Known for its unique landmarks and attractions in Los Angeles"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Los Angeles",
+            "Offers a rich cultural experience in Los Angeles"
+        ]
+    },
+    {
+        "alias":"dst28",
+        "name":"Milan",
+        "clues":[
+            "A popular tourist destination in Milan",
+            "Known for its unique landmarks and attractions in Milan"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Milan",
+            "Offers a rich cultural experience in Milan"
+        ]
+    },
+    {
+        "alias":"dst29",
+        "name":"Vienna",
+        "clues":[
+            "A popular tourist destination in Vienna",
+            "Known for its unique landmarks and attractions in Vienna"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Vienna",
+            "Offers a rich cultural experience in Vienna"
+        ]
+    },
+    {
+        "alias":"dst30",
+        "name":"Amsterdam",
+        "clues":[
+            "A popular tourist destination in Amsterdam",
+            "Known for its unique landmarks and attractions in Amsterdam"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Amsterdam",
+            "Offers a rich cultural experience in Amsterdam"
+        ]
+    },
+    {
+        "alias":"dst31",
+        "name":"Seoul",
+        "clues":[
+            "A popular tourist destination in Seoul",
+            "Known for its unique landmarks and attractions in Seoul"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Seoul",
+            "Offers a rich cultural experience in Seoul"
+        ]
+    },
+    {
+        "alias":"dst32",
+        "name":"Agra",
+        "clues":[
+            "A popular tourist destination in Agra",
+            "Known for its unique landmarks and attractions in Agra"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Agra",
+            "Offers a rich cultural experience in Agra"
+        ]
+    },
+    {
+        "alias":"dst33",
+        "name":"Osaka",
+        "clues":[
+            "A popular tourist destination in Osaka",
+            "Known for its unique landmarks and attractions in Osaka"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Osaka",
+            "Offers a rich cultural experience in Osaka"
+        ]
+    },
+    {
+        "alias":"dst34",
+        "name":"Denpasar",
+        "clues":[
+            "A popular tourist destination in Denpasar",
+            "Known for its unique landmarks and attractions in Denpasar"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Denpasar",
+            "Offers a rich cultural experience in Denpasar"
+        ]
+    },
+    {
+        "alias":"dst35",
+        "name":"Berlin",
+        "clues":[
+            "A popular tourist destination in Berlin",
+            "Known for its unique landmarks and attractions in Berlin"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Berlin",
+            "Offers a rich cultural experience in Berlin"
+        ]
+    },
+    {
+        "alias":"dst36",
+        "name":"Madrid",
+        "clues":[
+            "A popular tourist destination in Madrid",
+            "Known for its unique landmarks and attractions in Madrid"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Madrid",
+            "Offers a rich cultural experience in Madrid"
+        ]
+    },
+    {
+        "alias":"dst37",
+        "name":"Ho Chi Minh City",
+        "clues":[
+            "A popular tourist destination in Ho Chi Minh City",
+            "Known for its unique landmarks and attractions in Ho Chi Minh City"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Ho Chi Minh City",
+            "Offers a rich cultural experience in Ho Chi Minh City"
+        ]
+    },
+    {
+        "alias":"dst38",
+        "name":"Venice",
+        "clues":[
+            "A popular tourist destination in Venice",
+            "Known for its unique landmarks and attractions in Venice"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Venice",
+            "Offers a rich cultural experience in Venice"
+        ]
+    },
+    {
+        "alias":"dst39",
+        "name":"Dublin",
+        "clues":[
+            "A popular tourist destination in Dublin",
+            "Known for its unique landmarks and attractions in Dublin"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Dublin",
+            "Offers a rich cultural experience in Dublin"
+        ]
+    },
+    {
+        "alias":"dst40",
+        "name":"Florence",
+        "clues":[
+            "A popular tourist destination in Florence",
+            "Known for its unique landmarks and attractions in Florence"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Florence",
+            "Offers a rich cultural experience in Florence"
+        ]
+    },
+    {
+        "alias":"dst41",
+        "name":"Cairo",
+        "clues":[
+            "A popular tourist destination in Cairo",
+            "Known for its unique landmarks and attractions in Cairo"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Cairo",
+            "Offers a rich cultural experience in Cairo"
+        ]
+    },
+    {
+        "alias":"dst42",
+        "name":"Johannesburg",
+        "clues":[
+            "A popular tourist destination in Johannesburg",
+            "Known for its unique landmarks and attractions in Johannesburg"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Johannesburg",
+            "Offers a rich cultural experience in Johannesburg"
+        ]
+    },
+    {
+        "alias":"dst43",
+        "name":"Budapest",
+        "clues":[
+            "A popular tourist destination in Budapest",
+            "Known for its unique landmarks and attractions in Budapest"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Budapest",
+            "Offers a rich cultural experience in Budapest"
+        ]
+    },
+    {
+        "alias":"dst44",
+        "name":"Orlando",
+        "clues":[
+            "A popular tourist destination in Orlando",
+            "Known for its unique landmarks and attractions in Orlando"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Orlando",
+            "Offers a rich cultural experience in Orlando"
+        ]
+    },
+    {
+        "alias":"dst45",
+        "name":"Toronto",
+        "clues":[
+            "A popular tourist destination in Toronto",
+            "Known for its unique landmarks and attractions in Toronto"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Toronto",
+            "Offers a rich cultural experience in Toronto"
+        ]
+    },
+    {
+        "alias":"dst46",
+        "name":"Chennai",
+        "clues":[
+            "A popular tourist destination in Chennai",
+            "Known for its unique landmarks and attractions in Chennai"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Chennai",
+            "Offers a rich cultural experience in Chennai"
+        ]
+    },
+    {
+        "alias":"dst47",
+        "name":"Moscow",
+        "clues":[
+            "A popular tourist destination in Moscow",
+            "Known for its unique landmarks and attractions in Moscow"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Moscow",
+            "Offers a rich cultural experience in Moscow"
+        ]
+    },
+    {
+        "alias":"dst48",
+        "name":"St. Petersburg",
+        "clues":[
+            "A popular tourist destination in St. Petersburg",
+            "Known for its unique landmarks and attractions in St. Petersburg"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, St. Petersburg",
+            "Offers a rich cultural experience in St. Petersburg"
+        ]
+    },
+    {
+        "alias":"dst49",
+        "name":"Munich",
+        "clues":[
+            "A popular tourist destination in Munich",
+            "Known for its unique landmarks and attractions in Munich"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Munich",
+            "Offers a rich cultural experience in Munich"
+        ]
+    },
+    {
+        "alias":"dst50",
+        "name":"Lisbon",
+        "clues":[
+            "A popular tourist destination in Lisbon",
+            "Known for its unique landmarks and attractions in Lisbon"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Lisbon",
+            "Offers a rich cultural experience in Lisbon"
+        ]
+    },
+    {
+        "alias":"dst51",
+        "name":"Cancun",
+        "clues":[
+            "A popular tourist destination in Cancun",
+            "Known for its unique landmarks and attractions in Cancun"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Cancun",
+            "Offers a rich cultural experience in Cancun"
+        ]
+    },
+    {
+        "alias":"dst52",
+        "name":"Jaipur",
+        "clues":[
+            "A popular tourist destination in Jaipur",
+            "Known for its unique landmarks and attractions in Jaipur"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Jaipur",
+            "Offers a rich cultural experience in Jaipur"
+        ]
+    },
+    {
+        "alias":"dst53",
+        "name":"Hanoi",
+        "clues":[
+            "A popular tourist destination in Hanoi",
+            "Known for its unique landmarks and attractions in Hanoi"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Hanoi",
+            "Offers a rich cultural experience in Hanoi"
+        ]
+    },
+    {
+        "alias":"dst54",
+        "name":"Kyoto",
+        "clues":[
+            "A popular tourist destination in Kyoto",
+            "Known for its unique landmarks and attractions in Kyoto"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Kyoto",
+            "Offers a rich cultural experience in Kyoto"
+        ]
+    },
+    {
+        "alias":"dst55",
+        "name":"San Francisco",
+        "clues":[
+            "A popular tourist destination in San Francisco",
+            "Known for its unique landmarks and attractions in San Francisco"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, San Francisco",
+            "Offers a rich cultural experience in San Francisco"
+        ]
+    },
+    {
+        "alias":"dst56",
+        "name":"Sydney",
+        "clues":[
+            "A popular tourist destination in Sydney",
+            "Known for its unique landmarks and attractions in Sydney"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Sydney",
+            "Offers a rich cultural experience in Sydney"
+        ]
+    },
+    {
+        "alias":"dst57",
+        "name":"Brussels",
+        "clues":[
+            "A popular tourist destination in Brussels",
+            "Known for its unique landmarks and attractions in Brussels"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Brussels",
+            "Offers a rich cultural experience in Brussels"
+        ]
+    },
+    {
+        "alias":"dst58",
+        "name":"Jakarta",
+        "clues":[
+            "A popular tourist destination in Jakarta",
+            "Known for its unique landmarks and attractions in Jakarta"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Jakarta",
+            "Offers a rich cultural experience in Jakarta"
+        ]
+    },
+    {
+        "alias":"dst59",
+        "name":"Punta Cana",
+        "clues":[
+            "A popular tourist destination in Punta Cana",
+            "Known for its unique landmarks and attractions in Punta Cana"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Punta Cana",
+            "Offers a rich cultural experience in Punta Cana"
+        ]
+    },
+    {
+        "alias":"dst60",
+        "name":"Guilin",
+        "clues":[
+            "A popular tourist destination in Guilin",
+            "Known for its unique landmarks and attractions in Guilin"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Guilin",
+            "Offers a rich cultural experience in Guilin"
+        ]
+    },
+    {
+        "alias":"dst61",
+        "name":"Mexico City",
+        "clues":[
+            "A popular tourist destination in Mexico City",
+            "Known for its unique landmarks and attractions in Mexico City"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Mexico City",
+            "Offers a rich cultural experience in Mexico City"
+        ]
+    },
+    {
+        "alias":"dst62",
+        "name":"Athens",
+        "clues":[
+            "A popular tourist destination in Athens",
+            "Known for its unique landmarks and attractions in Athens"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Athens",
+            "Offers a rich cultural experience in Athens"
+        ]
+    },
+    {
+        "alias":"dst63",
+        "name":"Auckland",
+        "clues":[
+            "A popular tourist destination in Auckland",
+            "Known for its unique landmarks and attractions in Auckland"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Auckland",
+            "Offers a rich cultural experience in Auckland"
+        ]
+    },
+    {
+        "alias":"dst64",
+        "name":"Vancouver",
+        "clues":[
+            "A popular tourist destination in Vancouver",
+            "Known for its unique landmarks and attractions in Vancouver"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Vancouver",
+            "Offers a rich cultural experience in Vancouver"
+        ]
+    },
+    {
+        "alias":"dst65",
+        "name":"Zhuhai",
+        "clues":[
+            "A popular tourist destination in Zhuhai",
+            "Known for its unique landmarks and attractions in Zhuhai"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Zhuhai",
+            "Offers a rich cultural experience in Zhuhai"
+        ]
+    },
+    {
+        "alias":"dst66",
+        "name":"Krakow",
+        "clues":[
+            "A popular tourist destination in Krakow",
+            "Known for its unique landmarks and attractions in Krakow"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Krakow",
+            "Offers a rich cultural experience in Krakow"
+        ]
+    },
+    {
+        "alias":"dst67",
+        "name":"Warsaw",
+        "clues":[
+            "A popular tourist destination in Warsaw",
+            "Known for its unique landmarks and attractions in Warsaw"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Warsaw",
+            "Offers a rich cultural experience in Warsaw"
+        ]
+    },
+    {
+        "alias":"dst68",
+        "name":"The Hague",
+        "clues":[
+            "A popular tourist destination in The Hague",
+            "Known for its unique landmarks and attractions in The Hague"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, The Hague",
+            "Offers a rich cultural experience in The Hague"
+        ]
+    },
+    {
+        "alias":"dst69",
+        "name":"Dammam",
+        "clues":[
+            "A popular tourist destination in Dammam",
+            "Known for its unique landmarks and attractions in Dammam"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Dammam",
+            "Offers a rich cultural experience in Dammam"
+        ]
+    },
+    {
+        "alias":"dst70",
+        "name":"Medina",
+        "clues":[
+            "A popular tourist destination in Medina",
+            "Known for its unique landmarks and attractions in Medina"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Medina",
+            "Offers a rich cultural experience in Medina"
+        ]
+    },
+    {
+        "alias":"dst71",
+        "name":"Edirne",
+        "clues":[
+            "A popular tourist destination in Edirne",
+            "Known for its unique landmarks and attractions in Edirne"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Edirne",
+            "Offers a rich cultural experience in Edirne"
+        ]
+    },
+    {
+        "alias":"dst72",
+        "name":"Burgas",
+        "clues":[
+            "A popular tourist destination in Burgas",
+            "Known for its unique landmarks and attractions in Burgas"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Burgas",
+            "Offers a rich cultural experience in Burgas"
+        ]
+    },
+    {
+        "alias":"dst73",
+        "name":"Semarang",
+        "clues":[
+            "A popular tourist destination in Semarang",
+            "Known for its unique landmarks and attractions in Semarang"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Semarang",
+            "Offers a rich cultural experience in Semarang"
+        ]
+    },
+    {
+        "alias":"dst74",
+        "name":"Cebu City",
+        "clues":[
+            "A popular tourist destination in Cebu City",
+            "Known for its unique landmarks and attractions in Cebu City"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Cebu City",
+            "Offers a rich cultural experience in Cebu City"
+        ]
+    },
+    {
+        "alias":"dst75",
+        "name":"Chiang Mai",
+        "clues":[
+            "A popular tourist destination in Chiang Mai",
+            "Known for its unique landmarks and attractions in Chiang Mai"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Chiang Mai",
+            "Offers a rich cultural experience in Chiang Mai"
+        ]
+    },
+    {
+        "alias":"dst76",
+        "name":"Nice",
+        "clues":[
+            "A popular tourist destination in Nice",
+            "Known for its unique landmarks and attractions in Nice"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Nice",
+            "Offers a rich cultural experience in Nice"
+        ]
+    },
+    {
+        "alias":"dst77",
+        "name":"Siem Reap",
+        "clues":[
+            "A popular tourist destination in Siem Reap",
+            "Known for its unique landmarks and attractions in Siem Reap"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Siem Reap",
+            "Offers a rich cultural experience in Siem Reap"
+        ]
+    },
+    {
+        "alias":"dst78",
+        "name":"Heraklion",
+        "clues":[
+            "A popular tourist destination in Heraklion",
+            "Known for its unique landmarks and attractions in Heraklion"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Heraklion",
+            "Offers a rich cultural experience in Heraklion"
+        ]
+    },
+    {
+        "alias":"dst79",
+        "name":"Lyon",
+        "clues":[
+            "A popular tourist destination in Lyon",
+            "Known for its unique landmarks and attractions in Lyon"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Lyon",
+            "Offers a rich cultural experience in Lyon"
+        ]
+    },
+    {
+        "alias":"dst80",
+        "name":"Phnom Penh",
+        "clues":[
+            "A popular tourist destination in Phnom Penh",
+            "Known for its unique landmarks and attractions in Phnom Penh"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Phnom Penh",
+            "Offers a rich cultural experience in Phnom Penh"
+        ]
+    },
+    {
+        "alias":"dst81",
+        "name":"Kiev",
+        "clues":[
+            "A popular tourist destination in Kiev",
+            "Known for its unique landmarks and attractions in Kiev"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Kiev",
+            "Offers a rich cultural experience in Kiev"
+        ]
+    },
+    {
+        "alias":"dst82",
+        "name":"Riga",
+        "clues":[
+            "A popular tourist destination in Riga",
+            "Known for its unique landmarks and attractions in Riga"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Riga",
+            "Offers a rich cultural experience in Riga"
+        ]
+    },
+    {
+        "alias":"dst83",
+        "name":"Penang Island",
+        "clues":[
+            "A popular tourist destination in Penang Island",
+            "Known for its unique landmarks and attractions in Penang Island"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Penang Island",
+            "Offers a rich cultural experience in Penang Island"
+        ]
+    },
+    {
+        "alias":"dst84",
+        "name":"Colombo",
+        "clues":[
+            "A popular tourist destination in Colombo",
+            "Known for its unique landmarks and attractions in Colombo"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Colombo",
+            "Offers a rich cultural experience in Colombo"
+        ]
+    },
+    {
+        "alias":"dst85",
+        "name":"Batam Island",
+        "clues":[
+            "A popular tourist destination in Batam Island",
+            "Known for its unique landmarks and attractions in Batam Island"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Batam Island",
+            "Offers a rich cultural experience in Batam Island"
+        ]
+    },
+    {
+        "alias":"dst86",
+        "name":"Oludeniz",
+        "clues":[
+            "A popular tourist destination in Oludeniz",
+            "Known for its unique landmarks and attractions in Oludeniz"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Oludeniz",
+            "Offers a rich cultural experience in Oludeniz"
+        ]
+    },
+    {
+        "alias":"dst87",
+        "name":"Marrakech",
+        "clues":[
+            "A popular tourist destination in Marrakech",
+            "Known for its unique landmarks and attractions in Marrakech"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Marrakech",
+            "Offers a rich cultural experience in Marrakech"
+        ]
+    },
+    {
+        "alias":"dst88",
+        "name":"Kathmandu",
+        "clues":[
+            "A popular tourist destination in Kathmandu",
+            "Known for its unique landmarks and attractions in Kathmandu"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Kathmandu",
+            "Offers a rich cultural experience in Kathmandu"
+        ]
+    },
+    {
+        "alias":"dst89",
+        "name":"Manama",
+        "clues":[
+            "A popular tourist destination in Manama",
+            "Known for its unique landmarks and attractions in Manama"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Manama",
+            "Offers a rich cultural experience in Manama"
+        ]
+    },
+    {
+        "alias":"dst90",
+        "name":"Kota Kinabalu",
+        "clues":[
+            "A popular tourist destination in Kota Kinabalu",
+            "Known for its unique landmarks and attractions in Kota Kinabalu"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Kota Kinabalu",
+            "Offers a rich cultural experience in Kota Kinabalu"
+        ]
+    },
+    {
+        "alias":"dst91",
+        "name":"Da Nang",
+        "clues":[
+            "A popular tourist destination in Da Nang",
+            "Known for its unique landmarks and attractions in Da Nang"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, Da Nang",
+            "Offers a rich cultural experience in Da Nang"
+        ]
+    },
+    {
+        "alias":"dst92",
+        "name":"San Jose",
+        "clues":[
+            "A popular tourist destination in San Jose",
+            "Known for its unique landmarks and attractions in San Jose"
+        ],
+        "funFacts":[
+            "One of the most visited cities in the world, San Jose",
+            "Offers a rich cultural experience in San Jose"
+        ]
+    },
+    {
+        "alias": "dst93",
+        "name": "Bengaluru",
+        "clues": [
+          "Known as India's Silicon Valley for its tech industry",
+          "Home to Lalbagh Botanical Garden with a glasshouse"
+        ],
+        "funFacts": [
+          "Bengaluru is one of the highest-altitude major cities in India (900m above sea level).",
+          "The city has more than 1,000 software companies."
+        ]
+      },
+      {
+        "alias": "dst94",
+        "name": "Chennai",
+        "clues": [
+          "Marina Beach, the second-longest urban beach in the world",
+          "Capital of Tamil Nadu and a hub for classical music"
+        ],
+        "funFacts": [
+          "Chennai’s Kapaleeshwarar Temple is a masterpiece of Dravidian architecture.",
+          "The city is nicknamed the 'Detroit of India' for its automobile industry."
+        ]
+      },
+      {
+        "alias": "dst95",
+        "name": "Hyderabad",
+        "clues": [
+          "Famous for the historic Charminar monument",
+          "Birthplace of Hyderabadi biryani"
+        ],
+        "funFacts": [
+          "The Koh-i-Noor diamond was mined here and displayed at Golconda Fort.",
+          "Home to Ramoji Film City, the world’s largest film studio complex."
+        ]
+      },
+      {
+        "alias": "dst96",
+        "name": "Kochi",
+        "clues": [
+          "Port city with Chinese fishing nets",
+          "Gateway to Kerala's backwaters"
+        ],
+        "funFacts": [
+          "Kochi hosts the Kochi-Muziris Biennale, India’s largest art exhibition.",
+          "The Jewish Synagogue here is the oldest in the Commonwealth."
+        ]
+      },
+      {
+        "alias": "dst97",
+        "name": "Mysuru",
+        "clues": [
+          "Known as the 'City of Palaces' (e.g., Mysore Palace)",
+          "Famous for its Dasara festival"
+        ],
+        "funFacts": [
+          "Mysuru is India’s cleanest city, winning awards multiple times.",
+          "The city’s sandalwood oil is exported globally."
+        ]
+      },
+      {
+        "alias": "dst98",
+        "name": "Thiruvananthapuram",
+        "clues": [
+          "Capital of Kerala, near Kovalam Beach",
+          "Home to the Padmanabhaswamy Temple"
+        ],
+        "funFacts": [
+          "The temple’s underground vaults hold treasures worth billions.",
+          "India’s first IT park was established here in 1990."
+        ]
+      },
+      {
+        "alias": "dst99",
+        "name": "Puducherry",
+        "clues": [
+          "Former French colony with colonial architecture",
+          "Famous for Auroville (universal township)"
+        ],
+        "funFacts": [
+          "Puducherry has a French Quarter with streets named after French leaders.",
+          "The Sri Aurobindo Ashram attracts spiritual seekers worldwide."
+        ]
+      },
+      {
+        "alias": "dst100",
+        "name": "Madurai",
+        "clues": [
+          "Home to the Meenakshi Amman Temple with 33,000 sculptures",
+          "One of the oldest continuously inhabited cities in India"
+        ],
+        "funFacts": [
+          "The temple’s hall has 985 pillars, each uniquely carved.",
+          "Madurai is called the 'Athens of the East' for its cultural heritage."
+        ]
+      }
+]
