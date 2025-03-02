@@ -9,8 +9,8 @@
 
 This repository is organized as a monorepo to simplify development and deployment. It contains:
 
-- **app/backend/** – Contains the FastAPI backend.
-- **app/frontend/** – Contains the React frontend.
+- **app/** – Contains the FastAPI backend.
+- **frontend/** – Contains the React frontend.
 
 This structure makes it easier to manage both codebases together and lays the groundwork for future consolidated deployment using Docker.
 
@@ -69,18 +69,18 @@ This structure makes it easier to manage both codebases together and lays the gr
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/globetrotter.git
-cd globetrotter
+git clone https://github.com/character-flat/Globetrotter.git
+cd Globetrotter
 ```
 
-The repository is structured as a monorepo, with the backend and frontend located in the `app` folder.
+The repository is structured as a monorepo, with the backend and frontend located in root folder.
 
 ### 2. Frontend (React.js)
 
 - Navigate to the frontend folder:
 
   ```bash
-  cd app/frontend
+  cd frontend/
   npm install
   ```
 
@@ -103,7 +103,7 @@ The repository is structured as a monorepo, with the backend and frontend locate
 - Run the backend:
 
   ```bash
-  uvicorn main:app --reload
+  uvicorn app.main:app --reload
   ```
 
 - The API will be available at [http://localhost:8000](http://localhost:8000).
@@ -174,6 +174,3 @@ Set the following environment variables in your backend environment:
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit pull requests for any improvements or bug fixes.
-
-
-Remember to replace `https://github.com/yourusername/globetrotter.git` with your actual repository URL. Enjoy your project, and happy coding!
