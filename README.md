@@ -2,8 +2,9 @@
 # Globetrotter Game
 
 **Globetrotter** is an interactive quiz game where users can challenge their friends and track their scores. The game displays random questions with multiple-choice options and provides instant feedback. Players can share their scores via WhatsApp, inviting friends to compete.
-
 ---
+
+***Note: While visiting the website, you might sometimes notice no response from the backend. This is because Render automatically shuts down your instance when it’s not in use on the free tier. As a result, you may have to wait about 30 seconds for it to restart.***
 
 ## Repository Structure (Monorepo)
 
